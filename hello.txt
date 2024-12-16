@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-main第1次修改hello
-这是feat分支中添加的内容 hello feat
+分支中添加的内容 hello feat
